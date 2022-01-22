@@ -7,3 +7,5 @@ Test [this is the change in the 1st branch]
 (3) Line three added.
 
 [branch 1 last line]
+
+adding some changes after creating 2nd-branch
