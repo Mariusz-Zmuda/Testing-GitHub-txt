@@ -3,3 +3,5 @@ Test
 (1) Testing changes in Test.txt file.
 
 (2) I am adding the second line to the test and number the lines.
+
+(3) Line three added.
