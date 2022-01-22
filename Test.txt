@@ -1,4 +1,4 @@
-Test [this is the change in the 1st branch]
+Test [this is the change in the 1st branch]. Adding 2nd branch after merging 1st-branch to the main repo.
 
 (1) Testing changes in Test.txt file.
 
@@ -7,3 +7,5 @@ Test [this is the change in the 1st branch]
 (3) Line three added.
 
 [branch 1 last line]
+
+## Adding 2nd branch text here. ##
