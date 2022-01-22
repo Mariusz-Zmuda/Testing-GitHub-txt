@@ -3,9 +3,8 @@ Test [this is the change in the 1st branch]. Adding 2nd branch after merging 1st
 (1) Testing changes in Test.txt file.
 
 (2) I am adding the second line to the test and number the lines.
-
+(2.1) Something will be added here.
 (3) Line three added.
 
 [branch 1 last line]
 
-## Adding 2nd branch text here. ##
